@@ -5,3 +5,5 @@ My work emphasizes operator-aware formulations, adjoint methods, and fast, gener
 Earlier in my career, I worked as a software engineer in computational geometry and CAD (CAGD), developing mathematically sophisticated algorithms for geometric modeling. More recently, my work has focused on deploying structure-aware solvers in sensing and reconstruction settings, and on understanding how modern machine learning tools—unrolled networks, compact CNNs, physics-informed and operator-aware models—can be integrated responsibly around established numerical methods.
 
 This GitHub reflects selective technical work and experiments rather than a full portfolio; much of my prior work appears in publications, reports, and deployed research codebases rather than public repositories.
+
+Current interests include operator-aware models and objective functions, fast solvers for inverse problems and inverse design, and principled integration of learning with PDE-based computation.
